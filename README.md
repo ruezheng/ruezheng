@@ -1,6 +1,6 @@
 # Hello, I'm Rue Zheng 👋🏼
 # I'm a new Software Engineer in Salt Lake City, UT.
-#### See what I've been working on below. And here's my [**resume**](https://drive.google.com/file/d/1bMXl3VDtL7blUhcH9qvgLuajbnOvYBA2/export?format=pdf) and [**email**](rzheng13@gmail.com).
+#### See what I've been working on below. And here's my [**resume**](https://drive.google.com/file/d/1bMXl3VDtL7blUhcH9qvgLuajbnOvYBA2/export?format=pdf) and [**email**](mailto:rzheng13@gmail.com).
 #### Thanks for stopping by!
 
 
