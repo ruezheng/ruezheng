@@ -2,9 +2,9 @@
 
 <br>
 
-I am a dedicated and analytical Back-End Engineer who loves **puzzles**, **technical challenges**, and **learning new technologies**. 
+I am a dedicated and analytical backend engineer who loves **puzzles**, **technical challenges**, and **learning new technologies**. 
 
-My background in accounting, Linux system administration, and community organizing for non-profits shaped me into a developer who is passionate about creating efficient solutions to problems through software development. 
+Coming from a background in accounting, Linux system administration, and community organizing for non-profits, I am passionate about creating efficient solutions to problems through software development. 
 
 I genuinely enjoy the process of **writing**, **optimizing**, and **debugging code**, especially in a **collaborative environment**.
 Curious and self-motivated, I seek to apply my experiences and grow with a company that creates purpose-driven software.
