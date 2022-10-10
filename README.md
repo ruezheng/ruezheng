@@ -17,7 +17,7 @@ Curious and self-motivated, I seek to apply my experiences and grow with a compa
 
 <br>
 
-_Thank you for taking the time to look through my profile! Feel free to check out my work and [get connected](mailto:rzheng13@gamil.com)!_
+_Thank you for taking the time to look through my profile! Feel free to check out my work and [get connected](mailto:ruezheng1@gamil.com)!_
 ```json
 {
   "name": "Rue Zheng",
