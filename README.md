@@ -13,11 +13,11 @@ Curious and self-motivated, I seek to apply my experiences and grow with a compa
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ruezheng&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ruezheng&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <!--- <img src ="https://github-readme-streak-stats.herokuapp.com?user=ruezheng&theme=darcula&hide_border=true&background=FFFFFF00"> --->
-</p> -->
+</p>
 
 <br>
 
-_Thank you for taking the time to look through my profile! Feel free to check out my work and [get connected](mailto:ruezheng1@gamil.com)!_
+_Thank you for taking the time to look through my profile! Feel free to check out my work and [get connected](mailto:ruezheng1@gmail.com)!_
 ```json
 {
   "name": "Rue Zheng",
